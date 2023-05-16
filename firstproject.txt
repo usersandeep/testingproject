@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is my first project sandeep pandey
+=======
+this is my first project sandeep new
+>>>>>>> tester
